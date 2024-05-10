@@ -36,7 +36,7 @@ Welcome to Djaraba. A Financial Transactions Application repository to ease tran
 
 To get started with the Djaraba Application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/financial-transactions-app.git`
+1. Clone the repository: `git clone [Djaraba Application](https://github.com/FOMUBAD-BORISTA-FONDI/Djaraba-Application.git)`
 2. Install dependencies: `npm install` Would work mostly for front-end part. 
 3. Set up environment variables: Create a `.env` file based on `.env.example` and fill in the necessary configurations. (For back-end)
 4. Run the application: `npm start`
